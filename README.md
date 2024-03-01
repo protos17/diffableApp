@@ -1,6 +1,6 @@
-Приложение с использованием UICollectionViewDiffableDataSource и UITableViewDiffableDataSource. \n
-Сетевые вызовы реализованы через async/await. \n
-Хранение данных реализовано через SwiftData. \n
-Архитектура MVVM. \n
-Верстка UIKit. \n
-Байндинги с использованием Combine. ]n
+Приложение с использованием UICollectionViewDiffableDataSource и UITableViewDiffableDataSource. <br/>
+Сетевые вызовы реализованы через async/await. <br/>
+Хранение данных реализовано через SwiftData. <br/>
+Архитектура MVVM. <br/>
+Верстка UIKit. <br/>
+Байндинги с использованием Combine.
